@@ -6,7 +6,7 @@
 @Author  :   Shanto Roy 
 @Version :   1.0
 @Contact :   sroy10@uh.edu
-@License :   (C)Copyright 2020-2021, Shanto Roy
+@License :   Free to use/modify/share
 @Desc    :   A basic Keylogger that stores key logs in a local directory
 '''
 
