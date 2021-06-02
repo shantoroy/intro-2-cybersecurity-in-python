@@ -5,11 +5,18 @@ I will keep adding tutorials and scripts in python to provide basic ideas of Cyb
 
 Stay Tuned!
 
+## Prerequisite
+Almost all of the codes requires the basic knowledge of `Python Class`.
+
 ## Topics
 * Dictionary Attack  [[Code](dictionary_attack/dictionary_attack.py)]  [[Blog Post](https://shantoroy.com/security/password-cracking-through-dictionary-attack-in-python/)]
 * Keylogger  [[Code](keylogger/keylogger.py)]  [[Blog Post](https://shantoroy.com/security/a-simple-keylogger-in-python/)]
 * Virus  [[Code](virus/virus.py)]   [[Blog Post](https://shantoroy.com/security/write-a-virus-in-python/)]
+* Worm   [[Code](worm/worm.py)]    [[Blog Post]()]
 
+
+## Disclaimer
+All codes are very basic and only for educational purpose.
 
 ## Just for Fun
 ```
