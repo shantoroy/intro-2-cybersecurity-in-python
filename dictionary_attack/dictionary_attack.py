@@ -6,8 +6,7 @@
 @Author  :   Shanto Roy 
 @Version :   1.0
 @Contact :   sroy10@uh.edu
-@License :   Free to use/modify/share
-@Desc    :   None
+@Desc    :   https://shantoroy.com/security/password-cracking-through-dictionary-attack-in-python/
 '''
 
 
