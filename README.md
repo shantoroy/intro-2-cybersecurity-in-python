@@ -6,9 +6,9 @@ I will keep adding tutorials and scripts in python to provide basic ideas of Cyb
 Stay Tuned!
 
 ## Topics
-* [Dictionary Attack Code](dictionary_attack/dictionary_attack.py) [:point_right:   [Blog Post](https://shantoroy.com/security/password-cracking-through-dictionary-attack-in-python/)]
-* [Keylogger Code](keylogger/keylogger.py) [:point_right:   [Blog Post](https://shantoroy.com/security/a-simple-keylogger-in-python/)]
-* [Virus Code](virus/virus.py)
+* Dictionary Attack  [[Code](dictionary_attack/dictionary_attack.py)]  [[Blog Post](https://shantoroy.com/security/password-cracking-through-dictionary-attack-in-python/)]
+* Keylogger  [[Code](keylogger/keylogger.py)]  [[Blog Post](https://shantoroy.com/security/a-simple-keylogger-in-python/)]
+* Virus  [[Code](virus/virus.py)]
 
 
 ## Just for Fun
