@@ -1,7 +1,7 @@
 # CyberSecurity Concepts in Python
 
 ## Description
-I will keep adding tutorials and scripts in python to provide basic ideas of Cyber Security.
+I will keep adding tutorials and scripts in python to provide basic ideas of Cyber Security Concepts.
 
 Stay Tuned!
 
@@ -12,8 +12,8 @@ Almost all of the codes requires the basic knowledge of `Python Class`.
 * Dictionary Attack  [[Code](dictionary_attack/dictionary_attack.py)]  [[Blog Post](https://shantoroy.com/security/password-cracking-through-dictionary-attack-in-python/)]
 * Keylogger  [[Code](keylogger/keylogger.py)]  [[Blog Post](https://shantoroy.com/security/a-simple-keylogger-in-python/)]
 * Virus  [[Code](virus/virus.py)]   [[Blog Post](https://shantoroy.com/security/write-a-virus-in-python/)]
-* Worm   [[Code](worm/worm.py)]    [[Blog Post]()]
-* Backdoor   [[Code](backdoor/)]    [[Blog Post]()]
+* Worm   [[Code](worm/worm.py)]    [[Blog Post](https://shantoroy.com/security/write-a-worm-malware-in-python/)]
+* Backdoor   [[Code](backdoor/)]    [[Blog Post](https://shantoroy.com/security/simple-backdoor-using-python/)]
 
 
 ## Disclaimer
