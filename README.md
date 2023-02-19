@@ -1,7 +1,7 @@
 # CyberSecurity Concepts in Python
 
 ## Description
-I will keep adding tutorials and scripts in python to provide basic ideas of Cyber Security Concepts.
+I will keep adding tutorials and scripts in python to provide basic ideas of different Cyber Security Concepts.
 
 Stay Tuned!
 
