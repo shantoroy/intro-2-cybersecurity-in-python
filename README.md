@@ -14,6 +14,7 @@ Almost all of the codes requires the basic knowledge of `Python Class`.
 * Virus  [[Code](virus/virus.py)]   [[Blog Post](https://shantoroy.com/security/write-a-virus-in-python/)]
 * Worm   [[Code](worm/worm.py)]    [[Blog Post](https://shantoroy.com/security/write-a-worm-malware-in-python/)]
 * Backdoor   [[Code](backdoor/)]    [[Blog Post](https://shantoroy.com/security/simple-backdoor-using-python/)]
+* Ransomware   [[Code](ransomware/)]   [[Blog Post](https://medium.com/@shantoroy/i-exploited-the-moral-of-chatgpt-by-giving-slightly-different-instructions-to-write-ransomware-c0bb9cad0a55)]
 
 
 ## Disclaimer
