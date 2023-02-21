@@ -6,15 +6,24 @@ I will keep adding tutorials and scripts in python to provide basic ideas of dif
 Stay Tuned!
 
 ## Prerequisite
-Almost all of the codes requires the basic knowledge of `Python Class`.
+Almost all of the codes requires the basic knowledge of a `Python Class`.
 
 ## Topics
+### Offense
 * Dictionary Attack  [[Code](dictionary_attack/dictionary_attack.py)]  [[Blog Post](https://shantoroy.com/security/password-cracking-through-dictionary-attack-in-python/)]
 * Keylogger  [[Code](keylogger/keylogger.py)]  [[Blog Post](https://shantoroy.com/security/a-simple-keylogger-in-python/)]
 * Virus  [[Code](virus/virus.py)]   [[Blog Post](https://shantoroy.com/security/write-a-virus-in-python/)]
 * Worm   [[Code](worm/worm.py)]    [[Blog Post](https://shantoroy.com/security/write-a-worm-malware-in-python/)]
 * Backdoor   [[Code](backdoor/)]    [[Blog Post](https://shantoroy.com/security/simple-backdoor-using-python/)]
 * Ransomware   [[Code](ransomware/)]   [[Blog Post](https://medium.com/@shantoroy/i-exploited-the-moral-of-chatgpt-by-giving-slightly-different-instructions-to-write-ransomware-c0bb9cad0a55)]
+* Network Reconnaissance [To be added...]
+
+### Defense
+* Honeypot  [To be added...]
+* Intrusion Detection System (IDS)   [To be added...]
+
+### Miscellaneous
+* Symmetric/Asymmetric Key Cryptography   [[Code](cryptography/)]    [[Blog Post 1](https://shantoroy.com/python/basic-cryptography-encryption-decryption-in-python/)]  [[Blog Post 2](https://shantoroy.com/security/symmetric-public-key-cryptography-in-python/)]
 
 
 ## Disclaimer
