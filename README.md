@@ -21,6 +21,7 @@ Almost all of the codes requires the basic knowledge of a `Python Class`.
 ### Defense
 * Honeypot  [To be added...]
 * Intrusion Detection System (IDS)   [To be added...]
+* Deceptive Contents using Faker  [[Code](fake_contents/)]  [Blog Post To be added...]
 
 ### Miscellaneous
 * Symmetric/Asymmetric Key Cryptography   [[Code](cryptography/)]    [[Blog Post 1](https://shantoroy.com/python/basic-cryptography-encryption-decryption-in-python/)]  [[Blog Post 2](https://shantoroy.com/security/symmetric-public-key-cryptography-in-python/)]
