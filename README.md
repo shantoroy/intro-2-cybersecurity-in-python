@@ -14,13 +14,13 @@ Almost all of the codes requires the basic knowledge of a `Python Class`.
 * Keylogger  [[Code](keylogger/keylogger.py)]  [[Blog Post](https://shantoroy.com/security/a-simple-keylogger-in-python/)]
 * Virus  [[Code](virus/virus.py)]   [[Blog Post](https://shantoroy.com/security/write-a-virus-in-python/)]
 * Worm   [[Code](worm/worm.py)]    [[Blog Post](https://shantoroy.com/security/write-a-worm-malware-in-python/)]
-* Backdoor   [[Code](Grapevine, Texasbackdoor/)]    [[Blog Post](https://shantoroy.com/security/simple-backdoor-using-python/)]
+* Backdoor   [[Server](backdoor/server.py)] [[Client](backdoor/client.py)]   [[Blog Post](https://shantoroy.com/security/simple-backdoor-using-python/)]
 * Ransomware   [[Code](ransomware/)]   [[Blog Post](https://medium.com/@shantoroy/i-exploited-the-moral-of-chatgpt-by-giving-slightly-different-instructions-to-write-ransomware-c0bb9cad0a55)]
 * Network Reconnaissance [To be added...]
 
 ### Defense
 * Honeypot  [To be added...]
-* Intrusion Detection System (IDS)   [To be added...]
+* Intrusion Detection System (IDS)   [[Code](intrusion_detection/ids.py)]
 * Deceptive Contents using Faker  [[Code](fake_contents/)]  [[Blog Post](https://shantoroy.com/python/using-python-faker-for-data-privacy-redaction-masking/)]
 
 ### Miscellaneous
